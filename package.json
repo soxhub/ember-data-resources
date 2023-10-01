@@ -45,7 +45,7 @@
     "@glimmer/component": "^1.1.2",
     "@glint/template": "^0.9.3",
     "@nullvoxpopuli/eslint-configs": "^2.2.54",
-    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@types/ember": "^4.0.1",
     "@types/ember-data": "^4.4.1",
